@@ -12,6 +12,10 @@
   O site simula uma loja de computadores fictícia chamada ThinkBig PC, com a proposta de apresentar a empresa, oferecer a criação de conta e mostrar os pcs que são vendidos na loja.
 </p>
 
+## Link do site funcionando
+<a href="https://focused-leakey-3e4c4c.netlify.app/" target="_blank">ThinkBig PC</a>
+
+
 ## Progresso
 > :construction: Projeto em construção :construction:
 
